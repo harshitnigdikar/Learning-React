@@ -1,0 +1,16 @@
+body {
+    background: #46B2E0;
+}
+
+/* h1 {
+   color: #BF3325;
+   text-align: center;
+} */
+
+.button {
+    margin: 20px;
+    padding : 20px;
+    background-color: aquamarine;
+    color: bisque;
+    font-size: 20px;
+}
